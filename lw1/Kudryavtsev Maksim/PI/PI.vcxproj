@@ -148,6 +148,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="CalculatorUtils.h" />
+    <ClInclude Include="Messenger.h" />
     <ClInclude Include="MultiThreadCalculator.h" />
     <ClInclude Include="SingleThreadCalculator.h" />
     <ClInclude Include="Point.h" />
@@ -158,6 +159,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CalculatorUtils.cpp" />
+    <ClCompile Include="Messenger.cpp" />
     <ClCompile Include="MultiThreadCalculator.cpp" />
     <ClCompile Include="PI.cpp" />
     <ClCompile Include="SingleThreadCalculator.cpp" />
